@@ -10,7 +10,7 @@ IN PROGRESS
 
 ## Project Overview
 
-Design and make two-way speakers that can connect to standard TVs as well as add a bluetooth receiver to connect to bluetooth devices. The speakers will be relatively small and in a cube shape. A crossover network will be designed to bo best accomadate the speaker drivers. 
+Design and make two-way speakers that can connect to standard TVs as well as add a bluetooth receiver for bluetooth connectivity. The speakers will be relatively small and in a cube shape. A crossover network will be designed to best accomadate the speaker drivers. 
 
 ## Educational Value Added
 
